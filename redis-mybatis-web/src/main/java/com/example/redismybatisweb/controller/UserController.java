@@ -66,4 +66,5 @@ public class UserController {
         operations.set("user_"+id,userBasic);
         return "success";
     }
+
 }
